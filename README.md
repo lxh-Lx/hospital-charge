@@ -24,6 +24,7 @@ https://github.com/lxh-Lx/hospital-charge-backend.git
 <img width="1919" height="1093" alt="image" src="https://github.com/user-attachments/assets/ccf2c3d0-4824-4448-a43c-00d0facbdce9" />
 
 项目启动：
+npm install
 npm run dev
 
 
