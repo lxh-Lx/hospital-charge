@@ -5,3 +5,21 @@
 用户名：admin
 密码：123456
 <img width="1917" height="1098" alt="image" src="https://github.com/user-attachments/assets/40884c3e-ea89-4898-b343-2f8a0a6a9e18" />
+
+这是进行患者费用查询阶段：
+这里我用的是病人需要的费用随机一到五个，增加样本
+<img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/4498a375-fc99-48a8-ab61-402274f9f2a8" />
+
+这是进行收错费可以退费的功能：
+<img width="1919" height="1085" alt="image" src="https://github.com/user-attachments/assets/6891e130-ba21-459a-9544-13a2e3f0e596" />
+
+这是进行统计当前共盈利多少块：
+<img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/fb426dc9-5b36-42ec-8120-9fca95a15370" />
+
+最后则是进行收费项目的管理：
+<img width="1919" height="1093" alt="image" src="https://github.com/user-attachments/assets/ccf2c3d0-4824-4448-a43c-00d0facbdce9" />
+
+项目启动：
+npm run dev
+
+
